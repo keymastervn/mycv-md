@@ -77,8 +77,8 @@ Hobbies
 :   In my pleasure time
 
     * Outdoor: Hiking, Photography, Meetup
-    * Indoor: Reading Fantasy Novel, Quora, Playing PC Games, Singing, Cooking, Papercraft
+    * Indoor: Reading Fantasy Novel, Quora, Playing PC Games, Papercraft
 
 -----------------
 
-<center style="font-size:12px;"> ![Gmail Logo](http://megaicons.net/static/img/icons_sizes/57/195/16/communication-gmail-icon.png) *vnkeymaster@gmail.com* | ![GitHub Logo](http://www.iconsplace.com/download/black-github-16.png "git") *github.com/keymastervn* | ![Phone](https://cdn2.iconfinder.com/data/icons/fugue/icon_shadowless/mobile_phone_arrow.png) 84-164 4545 837 </center>
+<center style="font-size:12px;"> ![Gmail Logo](icon/gmail.png) *vnkeymaster@gmail.com* | ![GitHub Logo](http://www.iconsplace.com/download/black-github-16.png "git") *github.com/keymastervn* | ![Phone](https://cdn2.iconfinder.com/data/icons/fugue/icon_shadowless/mobile_phone_arrow.png) 84-164 4545 837 </center>
