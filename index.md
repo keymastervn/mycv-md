@@ -3,9 +3,9 @@ Dat Le-Tien
 
 * * * * *
 
-  <p style="text-align: center; font-size:16; font-weight:bold;">Developer</p>
+  <p style="text-align: center; font-size:16; font-weight:bold;">Backend Developer</p>
 
-  I am a 24 years old techie with 3 years experienced in software engineering. I love crafting new things, studying new technologies and life hacking. 
+  I am a 25 years old techie with 4 years experienced in software engineering. I love crafting new things, studying new technologies and life hacking. 
 
 * * * * *
 
@@ -15,7 +15,7 @@ Education
 Since 2015
 :   **Student of Master program**; Ho Chi Minh University of Science, HCMC
 
-    Currently freshman, *Computer Science*
+    *Computer Science*
 
 2010-2014
 :   **BSc, Computer Science**; Ton Duc Thang University, HCMC
@@ -32,13 +32,13 @@ Platform
     * Web server
     * Linux/MacOS
 
-Programming Languages
+Development Technique
 :   Most of them are open source
 
-    * *Development* - [Ruby](https://www.ruby-lang.org/en/), [Golang](https://golang.org/), Java, Shellscript, node.js
-    * *Database* - [PostgreSQL](https://www.postgresql.org/), [Sqlite](https://sqlite.org/)
-    * *UI* - Javascript, HTML, CSS
+    * *Programming Language* - [Ruby](https://www.ruby-lang.org/en/), [Golang](https://golang.org/), Java, Shellscript, node.js
+    * *Database* - [PostgreSQL](https://www.postgresql.org/), [Sqlite](https://sqlite.org/), [mongoDB](https://www.mongodb.com/)
     * *Version Control* - Git, SVN
+    * *Other* - Solr, Ansible, docker
 
 Methodology
 :   [Agile-scrum](https://www.scrumalliance.org/why-scrum)
@@ -53,7 +53,7 @@ Projects
 McKI </br> (12-2013 to current)
 :   A project for [McKesson](www.mckesson.com) (Top 5 Fortune Company) named **MSSS** that help replenish Healthcare facilities/supplies, purchase items and make insight reports to manage supply chain, item, cost saving... for hospitals in the US.
 
-    In McKI, we control all technical aspects of **MSSS** including AWS, databases, microservices and full source code.
+    In McKI, we control all technical aspects of **MSSS** including AWS, databases, microservices and source code.
 
 Rubyspace </br> (6-2013 to </br>12-2013)
 :   A bootcamp for junior Ruby Developer&nbsp; *learn stuff themselves* - with support by experienced Ruby developer.
